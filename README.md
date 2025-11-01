@@ -1,10 +1,26 @@
-- 👋 Hi, I’m @pawanppande
-- 👀 I’m interested in learing Business Analytics and Data Analytics through PYTHON,SQL,R,TABLEAU 
-- 🌱 I’m currently learning MBA in Business Analytics and R+Tableau 
-- 💞️ I’m looking to collaborate on BA projects through R or Python 
-- 📫 How to reach me ----> you can reach me via pawanppande1496@gmail.com
+### 👋 Hey there, I’m **Pawan P. Pande**
 
-<!---
-pawanppande/pawanppande is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Data & Analytics Enthusiast | Business Analytics | Modern BI | Cloud Data Engineering
+
+🔍 Over the last few months, I’ve been deep-diving into:
+- Power BI (DAX, Semantic Models, TMDL, Dataflows, Performance Tuning)
+- Databricks (PySpark, Delta Lake, Unity Catalog, DLT Pipelines)
+- SQL (Query Optimization, Stored Procedures, Real-Time Scenarios)
+- Python for Data Engineering & ML
+- Tableau, R, and Business Analytics concepts
+
+📘 Currently learning:
+- Advanced Power BI + Fabric
+- Databricks Workflows & End-to-End ETL Pipelines
+- Machine Learning & NLP fundamentals
+- Power Platform (Power Automate, Power Apps)
+
+🤝 I’m open to collaborate on:
+- Analytics & Dashboard Projects  
+- Data Engineering mini-pipelines (PySpark / SQL)  
+- Business Analytics + ML use cases  
+
+📫 Reach me at: **pawanppande1496@gmail.com**
+
+🌟 Fun Fact: I love turning raw messy data into something meaningful, automated, and beautifully visualized!
+
